@@ -1,3 +1,3 @@
 # mySiteDjango
 first repository
-![my image] (/../master/django.png)
+![my image] (https://github.com/Marjan-abm/mySiteDjango/blob/master/django.png?raw=true)
